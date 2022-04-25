@@ -5,7 +5,7 @@
 </p>
 
 # Arledson Lima
-<sub>*Business Inteligence Analyst - Data Science</sub>
+<sub>*Business Inteligence Analyst - Data Science*</sub>
 
 I am a critical thinking enthusiast and I seek to develop problem-solving skills.
 
